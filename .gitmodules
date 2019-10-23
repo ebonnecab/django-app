@@ -1,0 +1,3 @@
+[submodule "polls-app"]
+	path = polls-app
+	url = https://github.com/ebonnecab/polls-app.git
